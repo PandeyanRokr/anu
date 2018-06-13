@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PandeyRock_Example' do
+  pod 'PandeyRock', :path => '../'
+
+  target 'PandeyRock_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
