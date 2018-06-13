@@ -39,8 +39,8 @@
 /* Begin PBXFileReference section */
 		0775580E6D4777B24558F29F /* Pods_PandeyRock_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PandeyRock_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		178D3F99D21B90AF237E1D87 /* Pods-PandeyRock_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PandeyRock_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PandeyRock_Example/Pods-PandeyRock_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3C786F98D1776AA21962BEF3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		5C7F1FBC36C7156EDD27B90B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		3C786F98D1776AA21962BEF3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5C7F1FBC36C7156EDD27B90B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* PandeyRock_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PandeyRock_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,7 +65,7 @@
 		86DF8CF9C95CA30DB3DC1E69 /* Pods-PandeyRock_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PandeyRock_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PandeyRock_Tests/Pods-PandeyRock_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AB32538FB72CB79151BC1055 /* Pods-PandeyRock_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PandeyRock_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PandeyRock_Example/Pods-PandeyRock_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		CE9350BB56DA2381AB87D8D0 /* PandeyRock.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PandeyRock.podspec; path = ../PandeyRock.podspec; sourceTree = "<group>"; };
+		CE9350BB56DA2381AB87D8D0 /* PandeyRock.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PandeyRock.podspec; path = ../PandeyRock.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EFCF95E68DD3C73301F58785 /* Pods_PandeyRock_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PandeyRock_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
