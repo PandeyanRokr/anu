@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 hey this is pandiyan to learn cocoapod i will be rocke soon . so stay tuned with me . I have beautiful UI libray to you people. 
 DESC
 
-  s.homepage         = 'https://github.com/pandeyanrokr/PandeyRock'
+  s.homepage         = 'https://github.com/PandeyanRokr/anu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'pandeyanrokr' => 'pandeyan88@gmail.com' }
